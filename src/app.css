@@ -1,0 +1,32 @@
+h1 {
+    color: rgb(0, 112, 210);
+}
+p {
+    font-family: 'Salesforce Sans', Arial, sans-serif;
+    color: rgb(62, 62, 60);
+}
+.app {
+    background-color: #fafaf9;
+    height: 100vh;
+    overflow: scroll;
+}
+
+.email {
+    font-weight: bold;
+    color: black;
+    padding: 2px;
+    margin: 2px;
+}
+
+.labels {
+    font-weight: bold;
+}
+
+.check {
+    position: relative;
+    vertical-align: middle;
+}
+.radio {
+    position: center;
+}
+
